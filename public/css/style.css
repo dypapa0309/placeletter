@@ -424,3 +424,19 @@ footer {
 .stb_form_modal_close_btn:hover {
     opacity: 0.9;
 }
+
+.media-container {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.analysis-gif {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+}
